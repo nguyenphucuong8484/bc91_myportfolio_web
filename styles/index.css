@@ -205,3 +205,9 @@ a.active {
         opacity: 1;
     }
 }
+
+
+
+.text-active{
+    color: red;
+}
